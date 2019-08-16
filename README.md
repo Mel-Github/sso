@@ -1,4 +1,4 @@
-# sso test
+# sso test 20190816105500
 
 First attempt to try out Oauth2 via Spring. Application.yml was intentionally not checked in. Do note that the pom.xml version for the various libraries
 are very important for SSO to work.
